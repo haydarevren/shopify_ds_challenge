@@ -1,1 +1,1 @@
-# shopify_ds_challenge
+## Summer 2022 Shopify Data Science Challenge
